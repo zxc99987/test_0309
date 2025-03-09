@@ -2,7 +2,7 @@
 This is a git test code </br>
 hello world
 
-'''
-git add .</br>
+```
+git add .
 git commit -m "123"
-'''
+```
